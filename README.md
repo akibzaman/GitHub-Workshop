@@ -1,1 +1,1 @@
-# GitHub-Workshop-Mar2023
+# Git & GitHub Workshop (Mar, 2023)
